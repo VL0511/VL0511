@@ -1,4 +1,4 @@
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/fagnerpsantos)]https://twitter.com/Shine44558800
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/fagnerpsantos)(https://twitter.com/Shine44558800)
 
 
 Hello my name is Vitor known as Zury, I am a developer of web, desktop and bots applications.
