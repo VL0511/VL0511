@@ -22,6 +22,7 @@ I am a web developer, desktop and bot development for discord, whatsapp, faceboo
 
 ## Some method of communication
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Shine44558800)](https://twitter.com/Shine44558800)
+<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
 ---
 <img src="https://github-readme-stats.vercel.app/api?username=VL0511&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
 
