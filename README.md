@@ -16,5 +16,4 @@ I am a web developer, desktop and bot development for discord, whatsapp, faceboo
 <img src="https://github-readme-stats.vercel.app/api?username=VL0511&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VL0511&theme=radical&title_color=8E2DE2&text_color=fff)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VL0511)](https://github.com/VL0511/github-readme-stats)
 
