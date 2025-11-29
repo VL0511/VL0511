@@ -64,3 +64,5 @@
 ### 📬 Get in Touch
 
 - [LinkedIn](https://www.linkedin.com/in/vitor-leonardo-3a1392237/)
+
+- <a href="https://app.rocketseat.com.br/me/vitor-leonardo-correia-cavalcanti-03573"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=vitor-leonardo-correia-cavalcanti-03573&type=card" width="280" alt="Vitor Leonardo Correia Cavalcanti's Rocket ID"/></a>
