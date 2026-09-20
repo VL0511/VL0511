@@ -1,22 +1,24 @@
 <h1 align="center">Hi 👋, I'm Vitor Leonardo</h1>
 
 <h3 align="center">
-Software Engineer • Java • Microsoft Azure • Artificial Intelligence • Solution Architecture
+Senior Software Engineer • .NET • Java • Azure • AI • Software Architecture
 </h3>
 
 <p align="center">
-Building scalable cloud-native applications, distributed systems and AI-powered solutions with Java and Microsoft Azure.
+Building scalable cloud-native applications, distributed systems and AI-powered solutions.
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- ☕ Software Engineer passionate about enterprise applications
-- ☁️ Building cloud-native solutions with Microsoft Azure
-- 🏗️ Designing scalable microservices and distributed systems
-- 🤖 Developing AI-powered applications and AI Agents
-- 📚 Always exploring new technologies and software architecture
+* 💻 Senior Software Engineer focused on backend and distributed systems
+* 🔷 Building enterprise applications with **C#, .NET and ASP.NET Core**
+* ☕ Experienced with **Java, Spring Boot and Spring Cloud**
+* ☁️ Designing and building solutions with **Microsoft Azure**
+* 🏗️ Interested in **Microservices, Clean Architecture and Event-Driven Systems**
+* 🤖 Building applications with **Generative AI, RAG and AI Agents**
+* 📚 Continuously learning about software architecture, cloud and emerging technologies
 
 ---
 
@@ -25,7 +27,7 @@ Building scalable cloud-native applications, distributed systems and AI-powered 
 ### Languages & Frameworks
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,python,php,laravel,react,flutter&perline=7"/>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,python,php,react,flutter&perline=8"/>
 </p>
 
 ### Cloud & DevOps
@@ -37,7 +39,17 @@ Building scalable cloud-native applications, distributed systems and AI-powered 
 ### Databases & Messaging
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,kafka&perline=4"/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,kafka,rabbitmq&perline=5"/>
+</p>
+
+### AI & Generative AI
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python&perline=1"/>
+</p>
+
+<p align="center">
+<b>Azure OpenAI • LangChain • LangGraph • Spring AI • RAG • AI Agents • pgvector • Ollama</b>
 </p>
 
 ### Tools
@@ -54,33 +66,31 @@ Building scalable cloud-native applications, distributed systems and AI-powered 
 <tr>
 <td width="50%">
 
-### ☕
+### 🔷 .NET & Backend
 
-### Java Backend
-
-- Java
-- Spring Boot
-- Spring Cloud
-- Spring AI
-- Quarkus
+* C#
+* .NET 6 / 7 / 8
+* ASP.NET Core
+* REST APIs
+* SQL Server
+* Entity Framework
+* Backend Development
 
 </td>
 
 <td width="50%">
 
-### ☁️
+### ☕
 
-### Microsoft Azure
+### Java Ecosystem
 
-- Azure Functions
-- Blob Storage
-- App Services
-- Virtual Machines
-- Virtual Networks
-- Azure DevOps
-- Azure Monitor
-- Azure Key Vault
-- Azure Entra ID
+* Java
+* Spring Boot
+* Spring Cloud
+* Spring AI
+* Quarkus
+* REST APIs
+* Microservices
 
 </td>
 </tr>
@@ -88,15 +98,19 @@ Building scalable cloud-native applications, distributed systems and AI-powered 
 <tr>
 <td>
 
-### 🏗️
+### ☁️
 
-### Architecture
+### Microsoft Azure
 
-- Microservices
-- Event-Driven Architecture
-- REST APIs
-- Domain-Driven Design
-- Clean Architecture
+* Azure Functions
+* Azure App Services
+* Azure Storage
+* Azure Virtual Networks
+* Azure DevOps
+* Azure Monitor
+* Azure Key Vault
+* Microsoft Entra ID
+* Azure OpenAI
 
 </td>
 
@@ -106,13 +120,49 @@ Building scalable cloud-native applications, distributed systems and AI-powered 
 
 ### Artificial Intelligence
 
-- AI Agents
-- LangChain
-- LangGraph
-- Spring AI
-- RAG
-- pgvector
-- Ollama
+* Generative AI
+* AI Agents
+* RAG
+* LangChain
+* LangGraph
+* Spring AI
+* Azure OpenAI
+* pgvector
+* Ollama
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 🏗️
+
+### Software Architecture
+
+* Microservices
+* Event-Driven Architecture
+* Distributed Systems
+* Clean Architecture
+* Domain-Driven Design
+* REST APIs
+* Messaging
+* Cloud-Native Architecture
+
+</td>
+
+<td>
+
+### 📨
+
+### Messaging & Infrastructure
+
+* Apache Kafka
+* RabbitMQ
+* Docker
+* Kubernetes
+* CI/CD
+* Observability
 
 </td>
 </tr>
@@ -122,12 +172,13 @@ Building scalable cloud-native applications, distributed systems and AI-powered 
 
 # 🚀 Featured Projects
 
-| Project | Description |
-|----------|-------------|
-| 🤖 AI Agent Platform | AI Agents with LangGraph, Spring AI, Azure and PostgreSQL |
-| ☁ Azure Labs | Azure Functions, Storage, Networking and App Services |
-| 🏗 Java Microservices | Enterprise applications using Spring Boot, Kafka and Docker |
-| 📦 CRM Platform | Event-Driven CRM with OAuth2 and Microservices |
+| Project                   | Description                                                                       |
+| ------------------------- | --------------------------------------------------------------------------------- |
+| 🤖 **AI Agent Platform**  | AI Agents with LangGraph, Spring AI, Azure and PostgreSQL                         |
+| 🔷 **.NET Microservices** | Enterprise APIs and distributed services using C#, ASP.NET Core and Azure         |
+| ☁️ **Azure Labs**         | Hands-on projects exploring Azure Functions, Storage, Networking and App Services |
+| ☕ **Java Microservices**  | Distributed applications using Spring Boot, Kafka, Docker and PostgreSQL          |
+| 📦 **Event-Driven CRM**   | Event-driven CRM platform using microservices, messaging and OAuth2               |
 
 ---
 
@@ -139,17 +190,6 @@ Building scalable cloud-native applications, distributed systems and AI-powered 
 
 </p>
 
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VL0511&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
 
 # 🌎 Connect with Me
 
@@ -165,6 +205,6 @@ Building scalable cloud-native applications, distributed systems and AI-powered 
 
 <p align="center">
 
-<i>"Building scalable software with Java, Cloud and Artificial Intelligence."</i>
+<i>Building scalable software, cloud-native systems and AI-powered solutions.</i>
 
 </p>
